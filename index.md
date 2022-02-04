@@ -1,4 +1,4 @@
-# Project 1
+# Cherenkov Radiation
 
 Here is a cool picture of the Cherenkov Radiation in the Advanced Test Reactor in Idaho:
 <p align="center">
